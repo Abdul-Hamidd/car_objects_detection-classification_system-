@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/ObjDetectionmodel/processed_dataset  # dataset root path
+
+train: train/images  # training images
+val: val/images      # validation images
+
+nc: 1
+names: ['car']

@@ -1,0 +1,8 @@
+# YOLOv8 Custom Object Detection Project Requirements
+
+ultralytics>=8.0.0
+opencv-python
+numpy
+matplotlib
+jupyter
+tqdm
