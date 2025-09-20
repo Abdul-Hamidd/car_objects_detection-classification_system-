@@ -29,7 +29,7 @@ It includes preprocessing scripts, model training on Google Colab, and video str
 ##  Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/Abdul-Hamidd/car_objects_detection-classification_system.git
+git clone https://github.com/Abdul-Hamidd / car_objects_detection-classification_system.git
 cd car_objects_detection-classification_system
 2. Create Virtual Environment (optional but recommended)
 python -m venv venv
